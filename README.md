@@ -17,6 +17,8 @@ The Power BI dashboard analyzes incidents handled by the London Fire Brigade, of
 
 * Special Services Breakdown: Common types of special services provided by the fire brigade.
 
+<br>
+<br>
 **Dashboard Preview**
 <br>
 <br>
