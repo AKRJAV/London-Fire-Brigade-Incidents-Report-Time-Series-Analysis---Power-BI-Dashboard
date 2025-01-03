@@ -48,10 +48,10 @@ Breakdown of Special Services: Details the types of special services provided, s
 <br>
 The dashboard provides actionable insights, including:
 
-Identifying patterns in incidents to improve operational efficiency.
+*Identifying patterns in incidents to improve operational efficiency.
 
-Understanding peak activity times to allocate resources effectively.
+*Understanding peak activity times to allocate resources effectively.
 
-Highlighting boroughs with higher incident rates for focused interventions.
+*Highlighting boroughs with higher incident rates for focused interventions.
 
-Analyzing the nature of special services to enhance future preparedness.
+*Analyzing the nature of special services to enhance future preparedness.
