@@ -15,14 +15,15 @@ Geographic Distribution: Borough-wise analysis of incidents across London.
 
 Special Services Breakdown: Common types of special services provided by the fire brigade.
 
-Dashboard Preview
+**Dashboard Preview**
 Below is a preview of the Power BI dashboard developed for this analysis:
 
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/6e8b5d29-abef-4fab-bb71-d1d8b2df0c3b" />
 
 
 <br>
-Features of the Dashboard
+
+**Features of the Dashboard**
 The dashboard includes the following key components:
 
 Summary Metrics: Provides an overview of total incidents and their distribution across False Alarms, Fires, and Special Services.
@@ -37,7 +38,7 @@ Borough-Wise Incident Analysis: Highlights boroughs with the highest and lowest 
 Breakdown of Special Services: Details the types of special services provided, such as assisting with entry/exit, addressing flooding, and responding to medical incidents. Offers insights into the most common non-fire-related activities performed by the fire brigade.
 
 
-Insights
+**Insights**
 The dashboard provides actionable insights, including:
 
 Identifying patterns in incidents to improve operational efficiency.
