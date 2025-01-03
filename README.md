@@ -6,9 +6,13 @@ Project Overview
 The Power BI dashboard analyzes incidents handled by the London Fire Brigade, offering insights into:
 
 Total Incidents: Overview of the total number of incidents recorded during the analyzed period.
+
 Incident Types: Categorization of incidents into False Alarms, Fires, and Special Services.
+
 Time Trends: Patterns based on the hour of the call and year of occurrence.
+
 Geographic Distribution: Borough-wise analysis of incidents across London.
+
 Special Services Breakdown: Common types of special services provided by the fire brigade.
 
 Dashboard Preview
@@ -37,6 +41,9 @@ Insights
 The dashboard provides actionable insights, including:
 
 Identifying patterns in incidents to improve operational efficiency.
+
 Understanding peak activity times to allocate resources effectively.
+
 Highlighting boroughs with higher incident rates for focused interventions.
+
 Analyzing the nature of special services to enhance future preparedness.
