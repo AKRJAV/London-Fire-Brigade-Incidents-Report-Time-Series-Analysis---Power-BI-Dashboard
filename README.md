@@ -3,7 +3,9 @@
 This repository contains a time series analysis of the London Fire Brigade incidents report using Power BI. The analysis explores trends in fire brigade incidents, including false alarms, fires, and special services, across various years, hours, and boroughs in London.
 <br>
 <br>
+
 **Project Overview**
+
 <br>
 <br>
 The Power BI dashboard analyzes incidents handled by the London Fire Brigade, offering insights into:<br>
@@ -20,7 +22,9 @@ The Power BI dashboard analyzes incidents handled by the London Fire Brigade, of
 
 <br>
 <br>
+
 **Dashboard Preview**
+
 <br>
 <br>
 Below is a preview of the Power BI dashboard developed for this analysis:
@@ -30,6 +34,7 @@ Below is a preview of the Power BI dashboard developed for this analysis:
 <br>
 
 **Features of the Dashboard**
+
 <br>
 <br>
 
