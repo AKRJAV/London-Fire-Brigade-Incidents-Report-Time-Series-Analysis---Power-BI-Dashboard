@@ -1,15 +1,15 @@
 # London Fire Brigade Incidents Report (Time-Series-Analysis) - PowerBI Dashboard
 
-This repository contains a time series analysis of the London Fire Brigade incidents report using Power BI. The project involves analyzing incident trends across different years, boroughs, and types of services provided by the fire brigade, such as false alarms, fires, and special services.
+This repository contains a time series analysis of the London Fire Brigade incidents report using Power BI. The analysis explores trends in fire brigade incidents, including false alarms, fires, and special services, across various years, hours, and boroughs in London.
 
 Project Overview
-The analysis focuses on the following aspects:
+The Power BI dashboard analyzes incidents handled by the London Fire Brigade, offering insights into:
 
-Year-wise count of incidents by calling hour.
-Year-wise and group-wise incident trends (fire, false alarms, and special services).
-Borough-wise distribution of incidents in London.
-Types of special services attended by the fire brigade.
-The results are presented in a Power BI dashboard, showcasing key metrics and visualizations.
+Total Incidents: Overview of the total number of incidents recorded during the analyzed period.
+Incident Types: Categorization of incidents into False Alarms, Fires, and Special Services.
+Time Trends: Patterns based on the hour of the call and year of occurrence.
+Geographic Distribution: Borough-wise analysis of incidents across London.
+Special Services Breakdown: Common types of special services provided by the fire brigade.
 
 Dashboard Preview
 Below is a preview of the Power BI dashboard developed for this analysis:
@@ -18,17 +18,25 @@ Below is a preview of the Power BI dashboard developed for this analysis:
 
 
 <br>
-Total Incidents: Overall number of incidents over the analyzed period.
+Features of the Dashboard
+The dashboard includes the following key components:
 
-False Alarms, Fires, and Special Services: Individual counts of each incident type.
+Summary Metrics: Provides an overview of total incidents and their distribution across False Alarms, Fires, and Special Services.
 
-Year-Wise Count of Calling Hour: A heatmap showing the distribution of incident calls during different hours of the day.
+Year-Wise Distribution of Calls: Visualizes how incident call volumes vary by the hour of the day across multiple years.
+Helps identify peak hours for fire brigade activities.
 
-Trends Over Years: Year-wise trends of incidents grouped by type.
+Yearly Trends by Incident Group: Displays annual trends for each incident type.Includes projections to analyze future patterns.
 
-Borough-Wise Report: A bar chart visualizing incident counts across London boroughs.
+Borough-Wise Incident Analysis: Highlights boroughs with the highest and lowest number of reported incidents. A useful tool for resource allocation and targeted response planning.
 
-Types of Special Services: Details on special services provided, such as entry/exit assistance, flood response, lift releases, and more.
+Breakdown of Special Services: Details the types of special services provided, such as assisting with entry/exit, addressing flooding, and responding to medical incidents. Offers insights into the most common non-fire-related activities performed by the fire brigade.
 
 
-This analysis and dashboard are designed to help stakeholders understand incident trends, improve resource allocation, and optimize response times.
+Insights
+The dashboard provides actionable insights, including:
+
+Identifying patterns in incidents to improve operational efficiency.
+Understanding peak activity times to allocate resources effectively.
+Highlighting boroughs with higher incident rates for focused interventions.
+Analyzing the nature of special services to enhance future preparedness.
