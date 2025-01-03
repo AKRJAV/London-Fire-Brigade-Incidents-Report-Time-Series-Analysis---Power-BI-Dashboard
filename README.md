@@ -4,6 +4,7 @@ This repository contains a time series analysis of the London Fire Brigade incid
 
 **Project Overview**
 <br>
+<br>
 The Power BI dashboard analyzes incidents handled by the London Fire Brigade, offering insights into:<br>
 
 Total Incidents: Overview of the total number of incidents recorded during the analyzed period.
