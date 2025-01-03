@@ -17,7 +17,7 @@ Below is a preview of the Power BI dashboard developed for this analysis:
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/6e8b5d29-abef-4fab-bb71-d1d8b2df0c3b" />
 
 
-
+<br>
 Total Incidents: Overall number of incidents over the analyzed period.
 False Alarms, Fires, and Special Services: Individual counts of each incident type.
 Year-Wise Count of Calling Hour: A heatmap showing the distribution of incident calls during different hours of the day.
