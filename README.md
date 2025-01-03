@@ -47,7 +47,9 @@ Helps identify peak hours for fire brigade activities.
 * Breakdown of Special Services: Details the types of special services provided, such as assisting with entry/exit, addressing flooding, and responding to medical incidents. Offers insights into the most common non-fire-related activities performed by the fire brigade.
 <br>
 <br>
+
 **Insights**
+
 <br>
 <br>
 The dashboard provides actionable insights, including:
