@@ -29,6 +29,6 @@ Trends Over Years: Year-wise trends of incidents grouped by type.
 Borough-Wise Report: A bar chart visualizing incident counts across London boroughs.
 
 Types of Special Services: Details on special services provided, such as entry/exit assistance, flood response, lift releases, and more.
-Usage
+
 
 This analysis and dashboard are designed to help stakeholders understand incident trends, improve resource allocation, and optimize response times.
