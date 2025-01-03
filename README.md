@@ -19,6 +19,7 @@ Special Services Breakdown: Common types of special services provided by the fir
 
 **Dashboard Preview**
 <br>
+<br>
 Below is a preview of the Power BI dashboard developed for this analysis:
 <br>
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/6e8b5d29-abef-4fab-bb71-d1d8b2df0c3b" />
@@ -26,6 +27,7 @@ Below is a preview of the Power BI dashboard developed for this analysis:
 <br>
 
 **Features of the Dashboard**
+<br>
 <br>
 The dashboard includes the following key components:
 
@@ -42,6 +44,7 @@ Breakdown of Special Services: Details the types of special services provided, s
 <br>
 <br>
 **Insights**
+<br>
 <br>
 The dashboard provides actionable insights, including:
 
