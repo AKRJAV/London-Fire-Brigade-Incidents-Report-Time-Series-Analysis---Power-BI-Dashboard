@@ -7,15 +7,15 @@ This repository contains a time series analysis of the London Fire Brigade incid
 <br>
 The Power BI dashboard analyzes incidents handled by the London Fire Brigade, offering insights into:<br>
 
-Total Incidents: Overview of the total number of incidents recorded during the analyzed period.
+* Total Incidents: Overview of the total number of incidents recorded during the analyzed period.
 
-Incident Types: Categorization of incidents into False Alarms, Fires, and Special Services.
+* Incident Types: Categorization of incidents into False Alarms, Fires, and Special Services.
 
-Time Trends: Patterns based on the hour of the call and year of occurrence.
+* Time Trends: Patterns based on the hour of the call and year of occurrence.
 
-Geographic Distribution: Borough-wise analysis of incidents across London.
+* Geographic Distribution: Borough-wise analysis of incidents across London.
 
-Special Services Breakdown: Common types of special services provided by the fire brigade.
+* Special Services Breakdown: Common types of special services provided by the fire brigade.
 
 **Dashboard Preview**
 <br>
@@ -29,18 +29,19 @@ Below is a preview of the Power BI dashboard developed for this analysis:
 **Features of the Dashboard**
 <br>
 <br>
+
 The dashboard includes the following key components:
 
-Summary Metrics: Provides an overview of total incidents and their distribution across False Alarms, Fires, and Special Services.
+* Summary Metrics: Provides an overview of total incidents and their distribution across False Alarms, Fires, and Special Services.
 
-Year-Wise Distribution of Calls: Visualizes how incident call volumes vary by the hour of the day across multiple years.
+* Year-Wise Distribution of Calls: Visualizes how incident call volumes vary by the hour of the day across multiple years.
 Helps identify peak hours for fire brigade activities.
 
-Yearly Trends by Incident Group: Displays annual trends for each incident type.Includes projections to analyze future patterns.
+* Yearly Trends by Incident Group: Displays annual trends for each incident type.Includes projections to analyze future patterns.
 
-Borough-Wise Incident Analysis: Highlights boroughs with the highest and lowest number of reported incidents. A useful tool for resource allocation and targeted response planning.
+* Borough-Wise Incident Analysis: Highlights boroughs with the highest and lowest number of reported incidents. A useful tool for resource allocation and targeted response planning.
 
-Breakdown of Special Services: Details the types of special services provided, such as assisting with entry/exit, addressing flooding, and responding to medical incidents. Offers insights into the most common non-fire-related activities performed by the fire brigade.
+* Breakdown of Special Services: Details the types of special services provided, such as assisting with entry/exit, addressing flooding, and responding to medical incidents. Offers insights into the most common non-fire-related activities performed by the fire brigade.
 <br>
 <br>
 **Insights**
