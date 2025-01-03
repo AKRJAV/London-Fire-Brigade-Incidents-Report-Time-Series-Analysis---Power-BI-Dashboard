@@ -19,10 +19,16 @@ Below is a preview of the Power BI dashboard developed for this analysis:
 
 <br>
 Total Incidents: Overall number of incidents over the analyzed period.
+
 False Alarms, Fires, and Special Services: Individual counts of each incident type.
+
 Year-Wise Count of Calling Hour: A heatmap showing the distribution of incident calls during different hours of the day.
+
 Trends Over Years: Year-wise trends of incidents grouped by type.
+
 Borough-Wise Report: A bar chart visualizing incident counts across London boroughs.
+
 Types of Special Services: Details on special services provided, such as entry/exit assistance, flood response, lift releases, and more.
 Usage
+
 This analysis and dashboard are designed to help stakeholders understand incident trends, improve resource allocation, and optimize response times.
